@@ -128,9 +128,9 @@ fun TicketMascot(
             // Ticket body with a jagged bottom edge, like torn receipt paper.
             val body = Path().apply {
                 moveTo(bodyLeft, bodyTop + cornerRadius)
-                quadraticTo(bodyLeft, bodyTop, bodyLeft + cornerRadius, bodyTop)
+                quadraticBezierTo(bodyLeft, bodyTop, bodyLeft + cornerRadius, bodyTop)
                 lineTo(bodyRight - cornerRadius, bodyTop)
-                quadraticTo(bodyRight, bodyTop, bodyRight, bodyTop + cornerRadius)
+                quadraticBezierTo(bodyRight, bodyTop, bodyRight, bodyTop + cornerRadius)
                 lineTo(bodyRight, bodyBottom)
                 val teeth = 6
                 val toothWidth = (bodyRight - bodyLeft) / teeth
@@ -185,7 +185,7 @@ fun TicketMascot(
             // Smile
             val smile = Path().apply {
                 moveTo(eyeCenterX - w * 0.1f, h * 0.63f)
-                quadraticTo(eyeCenterX, h * 0.7f, eyeCenterX + w * 0.1f, h * 0.63f)
+                quadraticBezierTo(eyeCenterX, h * 0.7f, eyeCenterX + w * 0.1f, h * 0.63f)
             }
             drawPath(smile, color = onSurface, style = Stroke(width = w * 0.028f, cap = StrokeCap.Round))
 
