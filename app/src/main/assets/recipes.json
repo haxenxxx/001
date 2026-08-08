@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "tortilla-patatas",
+    "name": "Tortilla de patatas",
+    "category": "comida",
+    "minutes": 40,
+    "difficulty": "media",
+    "emoji": "🥔",
+    "ingredients": [
+      "patata",
+      "huevo",
+      "cebolla",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Pela y corta las patatas y la cebolla en laminas finas.",
+      "Frielas a fuego medio en aceite de oliva hasta que esten tiernas.",
+      "Escurre el aceite y mezcla con los huevos batidos y sal.",
+      "Cuaja la mezcla en la sarten por ambos lados hasta que este a tu gusto."
+    ]
+  },
+  {
+    "id": "tortilla-francesa",
+    "name": "Tortilla francesa",
+    "category": "cena",
+    "minutes": 10,
+    "difficulty": "facil",
+    "emoji": "🍳",
+    "ingredients": [
+      "huevo",
+      "sal",
+      "aceite de oliva"
+    ],
+    "steps": [
+      "Bate los huevos con una pizca de sal.",
+      "Calienta aceite en una sarten antiadherente.",
+      "Vierte el huevo y cuaja por ambos lados."
+    ]
+  },
+  {
+    "id": "gazpacho",
+    "name": "Gazpacho andaluz",
+    "category": "comida",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🍅",
+    "ingredients": [
+      "tomate",
+      "pepino",
+      "pimiento verde",
+      "ajo",
+      "aceite de oliva",
+      "vinagre",
+      "pan",
+      "sal"
+    ],
+    "steps": [
+      "Trocea las verduras y el pan remojado.",
+      "Tritura todo junto con aceite, vinagre y sal.",
+      "Cuela si quieres una textura mas fina y enfria antes de servir."
+    ]
+  },
+  {
+    "id": "salmorejo",
+    "name": "Salmorejo cordobes",
+    "category": "comida",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🍅",
+    "ingredients": [
+      "tomate",
+      "pan",
+      "ajo",
+      "aceite de oliva",
+      "huevo",
+      "jamon",
+      "sal"
+    ],
+    "steps": [
+      "Tritura el tomate, el pan remojado, el ajo, el aceite y la sal hasta cremoso.",
+      "Enfria en la nevera al menos una hora.",
+      "Sirve con huevo duro picado y jamon por encima."
+    ]
+  },
+  {
+    "id": "paella-valenciana",
+    "name": "Paella valenciana",
+    "category": "comida",
+    "minutes": 60,
+    "difficulty": "dificil",
+    "emoji": "🥘",
+    "ingredients": [
+      "arroz",
+      "pollo",
+      "judias verdes",
+      "garbanzos",
+      "tomate",
+      "azafran",
+      "aceite de oliva",
+      "caldo",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie el pollo troceado en aceite hasta dorar.",
+      "Anade las verduras y el tomate y sofrie unos minutos.",
+      "Incorpora el arroz, el azafran y el caldo caliente.",
+      "Cocina sin remover hasta que el arroz absorba el liquido."
+    ]
+  },
+  {
+    "id": "arroz-con-pollo",
+    "name": "Arroz con pollo",
+    "category": "comida",
+    "minutes": 45,
+    "difficulty": "media",
+    "emoji": "🍗",
+    "ingredients": [
+      "arroz",
+      "pollo",
+      "cebolla",
+      "pimiento rojo",
+      "ajo",
+      "tomate frito",
+      "caldo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Dora el pollo troceado en aceite de oliva.",
+      "Sofrie cebolla, pimiento y ajo picados.",
+      "Anade el tomate frito, el arroz y el caldo caliente.",
+      "Cocina a fuego medio hasta que el arroz este en su punto."
+    ]
+  },
+  {
+    "id": "fideua",
+    "name": "Fideua",
+    "category": "comida",
+    "minutes": 40,
+    "difficulty": "media",
+    "emoji": "🍜",
+    "ingredients": [
+      "fideos",
+      "gambas",
+      "calamar",
+      "tomate frito",
+      "ajo",
+      "azafran",
+      "caldo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie el ajo y el calamar en aceite de oliva.",
+      "Anade el tomate frito y las gambas y sofrie brevemente.",
+      "Incorpora los fideos, el azafran y el caldo caliente.",
+      "Cocina sin remover hasta que los fideos absorban el caldo."
+    ]
+  },
+  {
+    "id": "pisto-manchego",
+    "name": "Pisto manchego",
+    "category": "comida",
+    "minutes": 35,
+    "difficulty": "facil",
+    "emoji": "🍆",
+    "ingredients": [
+      "calabacin",
+      "berenjena",
+      "pimiento verde",
+      "pimiento rojo",
+      "cebolla",
+      "tomate",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Corta todas las verduras en dados pequenos.",
+      "Sofrie cada verdura por separado empezando por la cebolla.",
+      "Junta todo con el tomate y cocina a fuego lento hasta que reduzca."
+    ]
+  },
+  {
+    "id": "lentejas-estofadas",
+    "name": "Lentejas estofadas",
+    "category": "comida",
+    "minutes": 50,
+    "difficulty": "facil",
+    "emoji": "🍲",
+    "ingredients": [
+      "lentejas",
+      "patata",
+      "zanahoria",
+      "cebolla",
+      "ajo",
+      "chorizo",
+      "pimenton",
+      "laurel",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie la cebolla y el ajo picados en aceite.",
+      "Anade el chorizo, la patata y la zanahoria troceadas.",
+      "Incorpora las lentejas, el laurel, el pimenton y agua o caldo.",
+      "Cocina a fuego lento hasta que las lentejas esten tiernas."
+    ]
+  },
+  {
+    "id": "cocido-madrileno",
+    "name": "Cocido madrileno",
+    "category": "comida",
+    "minutes": 120,
+    "difficulty": "dificil",
+    "emoji": "🍲",
+    "ingredients": [
+      "garbanzos",
+      "pollo",
+      "cerdo",
+      "chorizo",
+      "morcilla",
+      "patata",
+      "zanahoria",
+      "puerro",
+      "sal"
+    ],
+    "steps": [
+      "Pon en remojo los garbanzos la noche anterior.",
+      "Cuece las carnes y los garbanzos a fuego lento durante horas.",
+      "Anade las verduras y el chorizo y sigue cociendo hasta que todo este tierno.",
+      "Sirve la sopa primero y despues los garbanzos y carnes."
+    ]
+  },
+  {
+    "id": "fabada-asturiana",
+    "name": "Fabada asturiana",
+    "category": "comida",
+    "minutes": 100,
+    "difficulty": "media",
+    "emoji": "🍲",
+    "ingredients": [
+      "judias blancas",
+      "chorizo",
+      "morcilla",
+      "cerdo",
+      "laurel",
+      "cebolla",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Pon en remojo las judias la noche anterior.",
+      "Cuece las judias con el chorizo, la morcilla y el cerdo a fuego muy lento.",
+      "Anade la cebolla entera y el laurel.",
+      "Deja cocer hasta que las judias esten tiernas sin romperse."
+    ]
+  },
+  {
+    "id": "croquetas-jamon",
+    "name": "Croquetas de jamon",
+    "category": "cena",
+    "minutes": 50,
+    "difficulty": "media",
+    "emoji": "🧆",
+    "ingredients": [
+      "jamon",
+      "leche",
+      "harina",
+      "mantequilla",
+      "huevo",
+      "pan rallado",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Haz una bechamel espesa con mantequilla, harina y leche.",
+      "Anade el jamon picado y mezcla bien.",
+      "Deja enfriar, forma las croquetas y pasalas por huevo y pan rallado.",
+      "Frielas en aceite bien caliente hasta dorar."
+    ]
+  },
+  {
+    "id": "croquetas-pollo",
+    "name": "Croquetas de pollo",
+    "category": "cena",
+    "minutes": 50,
+    "difficulty": "media",
+    "emoji": "🧆",
+    "ingredients": [
+      "pollo",
+      "leche",
+      "harina",
+      "mantequilla",
+      "huevo",
+      "pan rallado",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Cuece y desmenuza el pollo.",
+      "Haz una bechamel espesa y mezcla con el pollo.",
+      "Enfria, forma las croquetas y reboza en huevo y pan rallado.",
+      "Frie en aceite caliente hasta que esten doradas."
+    ]
+  },
+  {
+    "id": "croquetas-bacalao",
+    "name": "Croquetas de bacalao",
+    "category": "cena",
+    "minutes": 50,
+    "difficulty": "media",
+    "emoji": "🧆",
+    "ingredients": [
+      "bacalao",
+      "leche",
+      "harina",
+      "mantequilla",
+      "huevo",
+      "pan rallado",
+      "ajo",
+      "aceite de oliva"
+    ],
+    "steps": [
+      "Desmiga el bacalao y sofrielo con ajo.",
+      "Prepara una bechamel espesa y mezcla con el bacalao.",
+      "Enfria, forma las croquetas y reboza en huevo y pan rallado.",
+      "Frie hasta que esten doradas y crujientes."
+    ]
+  },
+  {
+    "id": "patatas-bravas",
+    "name": "Patatas bravas",
+    "category": "cena",
+    "minutes": 30,
+    "difficulty": "facil",
+    "emoji": "🌶️",
+    "ingredients": [
+      "patata",
+      "tomate frito",
+      "pimenton",
+      "ajo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Corta las patatas en dados y frielas hasta dorar.",
+      "Prepara una salsa brava con tomate frito, pimenton y ajo.",
+      "Sirve las patatas calientes con la salsa por encima."
+    ]
+  },
+  {
+    "id": "huevos-rotos",
+    "name": "Huevos rotos con jamon",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🍳",
+    "ingredients": [
+      "patata",
+      "huevo",
+      "jamon",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Corta las patatas en bastones y frielas hasta dorar.",
+      "Fríe los huevos dejando la yema jugosa.",
+      "Coloca los huevos sobre las patatas, rompe las yemas y anade el jamon."
+    ]
+  },
+  {
+    "id": "ensaladilla-rusa",
+    "name": "Ensaladilla rusa",
+    "category": "comida",
+    "minutes": 35,
+    "difficulty": "media",
+    "emoji": "🥗",
+    "ingredients": [
+      "patata",
+      "zanahoria",
+      "huevo",
+      "atun",
+      "aceituna",
+      "sal"
+    ],
+    "steps": [
+      "Cuece la patata, la zanahoria y los huevos.",
+      "Trocea todo en dados pequenos.",
+      "Mezcla con el atun y un poco de mayonesa casera o comprada.",
+      "Decora con aceitunas y enfria antes de servir."
+    ]
+  },
+  {
+    "id": "pollo-al-ajillo",
+    "name": "Pollo al ajillo",
+    "category": "cena",
+    "minutes": 35,
+    "difficulty": "facil",
+    "emoji": "🍗",
+    "ingredients": [
+      "pollo",
+      "ajo",
+      "vino blanco",
+      "laurel",
+      "aceite de oliva",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Dora los trozos de pollo en aceite de oliva.",
+      "Anade el ajo laminado y el laurel.",
+      "Vierte el vino blanco y deja reducir.",
+      "Espolvorea perejil picado antes de servir."
+    ]
+  },
+  {
+    "id": "calamares-romana",
+    "name": "Calamares a la romana",
+    "category": "cena",
+    "minutes": 30,
+    "difficulty": "media",
+    "emoji": "🦑",
+    "ingredients": [
+      "calamar",
+      "harina",
+      "huevo",
+      "aceite de oliva",
+      "limon",
+      "sal"
+    ],
+    "steps": [
+      "Corta los calamares en aros y salalos.",
+      "Pasalos por harina y despues por huevo batido.",
+      "Frielos en aceite bien caliente hasta dorar.",
+      "Sirve con una rodaja de limon."
+    ]
+  },
+  {
+    "id": "marmitako",
+    "name": "Marmitako de atun",
+    "category": "comida",
+    "minutes": 45,
+    "difficulty": "media",
+    "emoji": "🐟",
+    "ingredients": [
+      "atun",
+      "patata",
+      "pimiento verde",
+      "pimiento rojo",
+      "cebolla",
+      "tomate",
+      "ajo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie la cebolla, el pimiento y el ajo picados.",
+      "Anade el tomate y las patatas chascadas.",
+      "Cubre con agua o caldo y cuece hasta que la patata este tierna.",
+      "Incorpora el atun en dados al final y cocina 5 minutos mas."
+    ]
+  },
+  {
+    "id": "empanada-gallega",
+    "name": "Empanada gallega de atun",
+    "category": "cena",
+    "minutes": 70,
+    "difficulty": "dificil",
+    "emoji": "🥧",
+    "ingredients": [
+      "harina",
+      "atun",
+      "cebolla",
+      "pimiento rojo",
+      "tomate frito",
+      "aceite de oliva",
+      "huevo",
+      "sal"
+    ],
+    "steps": [
+      "Prepara una masa con harina, aceite, agua y sal, y deja reposar.",
+      "Sofrie la cebolla y el pimiento y anade el tomate y el atun.",
+      "Extiende la masa, rellena y cubre con la otra mitad.",
+      "Pinta con huevo y hornea hasta dorar."
+    ]
+  },
+  {
+    "id": "sopa-de-ajo",
+    "name": "Sopa de ajo castellana",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🍜",
+    "ingredients": [
+      "pan",
+      "ajo",
+      "pimenton",
+      "huevo",
+      "caldo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie el ajo laminado en aceite de oliva sin que se queme.",
+      "Anade el pimenton y el pan troceado.",
+      "Vierte el caldo caliente y cuece unos minutos.",
+      "Casca un huevo por encima y deja cuajar antes de servir."
+    ]
+  },
+  {
+    "id": "judias-verdes-jamon",
+    "name": "Judias verdes con jamon",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🥬",
+    "ingredients": [
+      "judias verdes",
+      "jamon",
+      "ajo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Cuece las judias verdes hasta que esten tiernas.",
+      "Saltea el ajo laminado y el jamon en aceite de oliva.",
+      "Mezcla las judias escurridas con el sofrito y sirve."
+    ]
+  },
+  {
+    "id": "revuelto-setas",
+    "name": "Revuelto de setas y jamon",
+    "category": "cena",
+    "minutes": 20,
+    "difficulty": "facil",
+    "emoji": "🍄",
+    "ingredients": [
+      "seta",
+      "champinon",
+      "huevo",
+      "jamon",
+      "ajo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Saltea las setas y el champinon con ajo en aceite de oliva.",
+      "Anade el jamon y saltea un minuto mas.",
+      "Incorpora los huevos batidos y cuaja a fuego suave sin dejar de remover."
+    ]
+  },
+  {
+    "id": "bacalao-pil-pil",
+    "name": "Bacalao al pil pil",
+    "category": "comida",
+    "minutes": 35,
+    "difficulty": "dificil",
+    "emoji": "🐟",
+    "ingredients": [
+      "bacalao",
+      "ajo",
+      "aceite de oliva"
+    ],
+    "steps": [
+      "Confita el bacalao en aceite de oliva a fuego muy suave.",
+      "Retira el bacalao y dora el ajo laminado en el mismo aceite.",
+      "Liga el aceite con el propio jugo del bacalao moviendo la sarten en circulos.",
+      "Vuelve a colocar el bacalao en la salsa emulsionada."
+    ]
+  },
+  {
+    "id": "merluza-romana",
+    "name": "Merluza a la romana",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🐟",
+    "ingredients": [
+      "merluza",
+      "harina",
+      "huevo",
+      "aceite de oliva",
+      "limon",
+      "sal"
+    ],
+    "steps": [
+      "Sala los lomos de merluza y pasalos por harina y huevo.",
+      "Frie en aceite bien caliente hasta dorar por ambos lados.",
+      "Sirve con una rodaja de limon."
+    ]
+  },
+  {
+    "id": "rabo-de-toro",
+    "name": "Rabo de toro",
+    "category": "comida",
+    "minutes": 180,
+    "difficulty": "dificil",
+    "emoji": "🍖",
+    "ingredients": [
+      "ternera",
+      "cebolla",
+      "zanahoria",
+      "puerro",
+      "ajo",
+      "vino tinto",
+      "laurel",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Dora el rabo troceado en aceite de oliva.",
+      "Sofrie las verduras y anade el rabo de nuevo a la olla.",
+      "Vierte el vino tinto y el laurel y cubre con agua.",
+      "Cocina a fuego lento varias horas hasta que la carne se despegue del hueso."
+    ]
+  },
+  {
+    "id": "cordero-asado",
+    "name": "Cordero asado",
+    "category": "comida",
+    "minutes": 120,
+    "difficulty": "dificil",
+    "emoji": "🍖",
+    "ingredients": [
+      "cordero",
+      "ajo",
+      "aceite de oliva",
+      "vino blanco",
+      "laurel",
+      "sal"
+    ],
+    "steps": [
+      "Unta el cordero con ajo picado, aceite y sal.",
+      "Coloca en una fuente con un poco de agua y vino blanco.",
+      "Hornea a fuego medio regando de vez en cuando con su jugo.",
+      "Sube el fuego al final para dorar la piel."
+    ]
+  },
+  {
+    "id": "escalivada",
+    "name": "Escalivada catalana",
+    "category": "cena",
+    "minutes": 60,
+    "difficulty": "facil",
+    "emoji": "🍆",
+    "ingredients": [
+      "berenjena",
+      "pimiento rojo",
+      "cebolla",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Asa las verduras enteras al horno hasta que esten muy tiernas.",
+      "Deja templar, pela y corta en tiras.",
+      "Adereza con aceite de oliva y sal."
+    ]
+  },
+  {
+    "id": "zarzuela-marisco",
+    "name": "Zarzuela de marisco",
+    "category": "comida",
+    "minutes": 55,
+    "difficulty": "dificil",
+    "emoji": "🦐",
+    "ingredients": [
+      "gambas",
+      "calamar",
+      "mejillon",
+      "merluza",
+      "tomate frito",
+      "ajo",
+      "vino blanco",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie el ajo y anade el tomate frito.",
+      "Incorpora el calamar y cocina unos minutos.",
+      "Anade el vino blanco, la merluza, las gambas y los mejillones.",
+      "Cocina a fuego medio hasta que el marisco este en su punto."
+    ]
+  },
+  {
+    "id": "caldereta-cordero",
+    "name": "Caldereta de cordero",
+    "category": "comida",
+    "minutes": 90,
+    "difficulty": "dificil",
+    "emoji": "🍲",
+    "ingredients": [
+      "cordero",
+      "cebolla",
+      "pimiento rojo",
+      "tomate",
+      "ajo",
+      "vino blanco",
+      "laurel",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Dora el cordero troceado en aceite de oliva.",
+      "Sofrie la cebolla, el pimiento y el ajo.",
+      "Anade el tomate, el vino blanco y el laurel.",
+      "Cocina a fuego lento hasta que la carne este muy tierna."
+    ]
+  },
+  {
+    "id": "potaje-garbanzos",
+    "name": "Potaje de garbanzos con espinacas",
+    "category": "comida",
+    "minutes": 60,
+    "difficulty": "media",
+    "emoji": "🍲",
+    "ingredients": [
+      "garbanzos",
+      "espinaca",
+      "ajo",
+      "pimenton",
+      "comino",
+      "pan",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie el ajo y el pan en aceite y tritura con comino y pimenton.",
+      "Cuece los garbanzos con las espinacas.",
+      "Anade el majado y cocina unos minutos mas para que espese."
+    ]
+  },
+  {
+    "id": "berenjenas-miel",
+    "name": "Berenjenas con miel",
+    "category": "cena",
+    "minutes": 20,
+    "difficulty": "facil",
+    "emoji": "🍆",
+    "ingredients": [
+      "berenjena",
+      "harina",
+      "miel",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Corta las berenjenas en tiras finas y salalas.",
+      "Pasalas por harina y frielas en aceite bien caliente.",
+      "Escurre sobre papel y riega con miel antes de servir."
+    ]
+  },
+  {
+    "id": "pulpo-gallega",
+    "name": "Pulpo a la gallega",
+    "category": "comida",
+    "minutes": 50,
+    "difficulty": "media",
+    "emoji": "🐙",
+    "ingredients": [
+      "pulpo",
+      "patata",
+      "pimenton",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Cuece el pulpo hasta que este tierno.",
+      "Cuece tambien las patatas y cortalas en rodajas.",
+      "Corta el pulpo en rodajas y sirve sobre las patatas.",
+      "Espolvorea pimenton y riega con aceite de oliva."
+    ]
+  },
+  {
+    "id": "chipirones-encebollados",
+    "name": "Chipirones encebollados",
+    "category": "cena",
+    "minutes": 35,
+    "difficulty": "media",
+    "emoji": "🦑",
+    "ingredients": [
+      "calamar",
+      "cebolla",
+      "ajo",
+      "vino blanco",
+      "aceite de oliva",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Pocha la cebolla y el ajo a fuego lento hasta que esten muy blandos.",
+      "Anade los chipirones y saltea un par de minutos.",
+      "Vierte el vino blanco y deja reducir.",
+      "Espolvorea perejil picado antes de servir."
+    ]
+  },
+  {
+    "id": "solomillo-whisky",
+    "name": "Solomillo al whisky",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "media",
+    "emoji": "🥩",
+    "ingredients": [
+      "cerdo",
+      "ajo",
+      "aceite de oliva",
+      "limon",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Salpimenta el solomillo y dora en aceite de oliva.",
+      "Anade el ajo picado y el zumo de limon.",
+      "Deja reducir la salsa y espolvorea perejil antes de servir."
+    ]
+  },
+  {
+    "id": "entrecot-plancha",
+    "name": "Entrecot a la plancha",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🥩",
+    "ingredients": [
+      "ternera",
+      "aceite de oliva",
+      "sal",
+      "pimienta"
+    ],
+    "steps": [
+      "Saca la carne de la nevera con antelacion para que atempere.",
+      "Calienta la plancha bien fuerte con un poco de aceite.",
+      "Cocina el entrecot al punto deseado y salpimenta al final."
+    ]
+  },
+  {
+    "id": "conejo-al-ajillo",
+    "name": "Conejo al ajillo",
+    "category": "comida",
+    "minutes": 45,
+    "difficulty": "media",
+    "emoji": "🐇",
+    "ingredients": [
+      "conejo",
+      "ajo",
+      "vino blanco",
+      "laurel",
+      "aceite de oliva",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Dora los trozos de conejo en aceite de oliva.",
+      "Anade el ajo laminado y el laurel.",
+      "Vierte el vino blanco y cocina a fuego lento hasta que este tierno.",
+      "Espolvorea perejil antes de servir."
+    ]
+  },
+  {
+    "id": "chorizo-a-la-sidra",
+    "name": "Chorizo a la sidra",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🌭",
+    "ingredients": [
+      "chorizo",
+      "vino blanco",
+      "laurel"
+    ],
+    "steps": [
+      "Pincha el chorizo y colocalo en una cazuela.",
+      "Cubre con vino blanco y anade una hoja de laurel.",
+      "Cocina a fuego medio hasta que reduzca el liquido."
+    ]
+  },
+  {
+    "id": "queso-frito",
+    "name": "Queso frito con miel",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🧀",
+    "ingredients": [
+      "queso",
+      "harina",
+      "huevo",
+      "pan rallado",
+      "miel",
+      "aceite de oliva"
+    ],
+    "steps": [
+      "Corta el queso en porciones y pasalo por harina, huevo y pan rallado.",
+      "Frie en aceite bien caliente hasta dorar.",
+      "Sirve caliente con un chorrito de miel."
+    ]
+  },
+  {
+    "id": "tarta-santiago",
+    "name": "Tarta de Santiago",
+    "category": "postre",
+    "minutes": 55,
+    "difficulty": "media",
+    "emoji": "🥮",
+    "ingredients": [
+      "almendra",
+      "azucar",
+      "huevo",
+      "limon",
+      "mantequilla"
+    ],
+    "steps": [
+      "Mezcla la almendra molida con el azucar y la ralladura de limon.",
+      "Anade los huevos batidos y la mantequilla derretida.",
+      "Vierte en un molde y hornea hasta que cuaje.",
+      "Espolvorea azucar glas formando la cruz de Santiago."
+    ]
+  },
+  {
+    "id": "crema-catalana",
+    "name": "Crema catalana",
+    "category": "postre",
+    "minutes": 30,
+    "difficulty": "media",
+    "emoji": "🍮",
+    "ingredients": [
+      "leche",
+      "huevo",
+      "azucar",
+      "canela",
+      "limon"
+    ],
+    "steps": [
+      "Infusiona la leche con canela y piel de limon.",
+      "Bate las yemas con el azucar e incorpora la leche colada.",
+      "Cocina a fuego suave sin dejar de remover hasta espesar.",
+      "Enfria y quema el azucar por encima antes de servir."
+    ]
+  },
+  {
+    "id": "arroz-con-leche",
+    "name": "Arroz con leche",
+    "category": "postre",
+    "minutes": 45,
+    "difficulty": "facil",
+    "emoji": "🍚",
+    "ingredients": [
+      "arroz",
+      "leche",
+      "azucar",
+      "canela",
+      "limon"
+    ],
+    "steps": [
+      "Cuece el arroz en agua unos minutos y escurre.",
+      "Anade la leche, el azucar, la canela y la piel de limon.",
+      "Cocina a fuego lento removiendo hasta que espese.",
+      "Sirve frio o templado con canela por encima."
+    ]
+  },
+  {
+    "id": "torrijas",
+    "name": "Torrijas",
+    "category": "postre",
+    "minutes": 30,
+    "difficulty": "facil",
+    "emoji": "🍞",
+    "ingredients": [
+      "pan",
+      "leche",
+      "huevo",
+      "azucar",
+      "canela",
+      "aceite de oliva"
+    ],
+    "steps": [
+      "Corta el pan en rebanadas gruesas y remoja en leche con azucar y canela.",
+      "Pasa por huevo batido.",
+      "Frie en aceite caliente hasta dorar por ambos lados.",
+      "Espolvorea con azucar y canela antes de servir."
+    ]
+  },
+  {
+    "id": "flan-huevo",
+    "name": "Flan de huevo",
+    "category": "postre",
+    "minutes": 50,
+    "difficulty": "media",
+    "emoji": "🍮",
+    "ingredients": [
+      "huevo",
+      "leche",
+      "azucar"
+    ],
+    "steps": [
+      "Prepara un caramelo con azucar y reparte en los moldes.",
+      "Bate los huevos con la leche y el azucar restante.",
+      "Vierte sobre el caramelo y cuece al bano maria hasta cuajar.",
+      "Enfria antes de desmoldar."
+    ]
+  },
+  {
+    "id": "leche-frita",
+    "name": "Leche frita",
+    "category": "postre",
+    "minutes": 40,
+    "difficulty": "media",
+    "emoji": "🍮",
+    "ingredients": [
+      "leche",
+      "harina",
+      "azucar",
+      "huevo",
+      "canela",
+      "aceite de oliva"
+    ],
+    "steps": [
+      "Prepara una crema espesa con leche, harina y azucar.",
+      "Extiende en una bandeja y enfria hasta que cuaje.",
+      "Corta en cuadrados, pasa por huevo y frie hasta dorar.",
+      "Espolvorea con azucar y canela."
+    ]
+  },
+  {
+    "id": "pestinos",
+    "name": "Pestinos",
+    "category": "postre",
+    "minutes": 45,
+    "difficulty": "media",
+    "emoji": "🍯",
+    "ingredients": [
+      "harina",
+      "aceite de oliva",
+      "miel",
+      "vino blanco",
+      "canela"
+    ],
+    "steps": [
+      "Mezcla la harina con aceite templado, vino y canela hasta formar una masa.",
+      "Estira y corta en porciones, dandoles forma.",
+      "Frie en aceite caliente hasta dorar.",
+      "Baña en miel templada antes de servir."
+    ]
+  },
+  {
+    "id": "natillas",
+    "name": "Natillas caseras",
+    "category": "postre",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🍮",
+    "ingredients": [
+      "leche",
+      "huevo",
+      "azucar",
+      "canela",
+      "limon"
+    ],
+    "steps": [
+      "Infusiona la leche con canela y piel de limon.",
+      "Bate las yemas con el azucar y anade la leche colada poco a poco.",
+      "Cocina a fuego suave sin dejar de remover hasta que espese."
+    ]
+  },
+  {
+    "id": "ensalada-mixta",
+    "name": "Ensalada mixta",
+    "category": "comida",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🥗",
+    "ingredients": [
+      "lechuga",
+      "tomate",
+      "cebolla",
+      "aceituna",
+      "atun",
+      "aceite de oliva",
+      "vinagre",
+      "sal"
+    ],
+    "steps": [
+      "Lava y trocea la lechuga y el tomate.",
+      "Anade la cebolla en juliana, las aceitunas y el atun.",
+      "Adereza con aceite de oliva, vinagre y sal."
+    ]
+  },
+  {
+    "id": "pasta-carbonara-espanola",
+    "name": "Pasta con bacon y nata",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🍝",
+    "ingredients": [
+      "pasta",
+      "bacon",
+      "nata",
+      "queso parmesano",
+      "ajo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Cuece la pasta segun el paquete.",
+      "Saltea el bacon con el ajo en aceite de oliva.",
+      "Anade la nata y deja reducir un poco.",
+      "Mezcla con la pasta escurrida y el queso parmesano."
+    ]
+  },
+  {
+    "id": "pasta-atun-tomate",
+    "name": "Pasta con atun y tomate",
+    "category": "cena",
+    "minutes": 20,
+    "difficulty": "facil",
+    "emoji": "🍝",
+    "ingredients": [
+      "pasta",
+      "atun",
+      "tomate frito",
+      "ajo",
+      "aceite de oliva",
+      "aceituna",
+      "sal"
+    ],
+    "steps": [
+      "Cuece la pasta segun el paquete.",
+      "Sofrie el ajo y anade el tomate frito.",
+      "Incorpora el atun escurrido y las aceitunas.",
+      "Mezcla con la pasta y sirve caliente."
+    ]
+  },
+  {
+    "id": "crema-calabacin",
+    "name": "Crema de calabacin",
+    "category": "cena",
+    "minutes": 30,
+    "difficulty": "facil",
+    "emoji": "🥣",
+    "ingredients": [
+      "calabacin",
+      "patata",
+      "cebolla",
+      "puerro",
+      "caldo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie la cebolla y el puerro en aceite de oliva.",
+      "Anade el calabacin y la patata troceados.",
+      "Cubre con caldo y cuece hasta que las verduras esten tiernas.",
+      "Tritura hasta obtener una crema fina."
+    ]
+  },
+  {
+    "id": "crema-zanahoria",
+    "name": "Crema de zanahoria",
+    "category": "cena",
+    "minutes": 30,
+    "difficulty": "facil",
+    "emoji": "🥣",
+    "ingredients": [
+      "zanahoria",
+      "patata",
+      "cebolla",
+      "caldo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie la cebolla en aceite de oliva.",
+      "Anade la zanahoria y la patata troceadas.",
+      "Cubre con caldo y cuece hasta que esten tiernas.",
+      "Tritura hasta conseguir una crema homogenea."
+    ]
+  },
+  {
+    "id": "pimientos-padron",
+    "name": "Pimientos de Padron",
+    "category": "cena",
+    "minutes": 10,
+    "difficulty": "facil",
+    "emoji": "🫑",
+    "ingredients": [
+      "pimiento verde",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Calienta abundante aceite de oliva en una sarten.",
+      "Fríe los pimientos enteros hasta que se arruguen.",
+      "Escurre y espolvorea con sal gruesa."
+    ]
+  },
+  {
+    "id": "champinones-al-ajillo",
+    "name": "Champinones al ajillo",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🍄",
+    "ingredients": [
+      "champinon",
+      "ajo",
+      "aceite de oliva",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Limpia y lamina los champinones.",
+      "Saltea con ajo picado en aceite de oliva.",
+      "Espolvorea perejil picado antes de servir."
+    ]
+  },
+  {
+    "id": "albondigas-salsa",
+    "name": "Albondigas en salsa",
+    "category": "comida",
+    "minutes": 45,
+    "difficulty": "media",
+    "emoji": "🍡",
+    "ingredients": [
+      "carne picada",
+      "pan rallado",
+      "huevo",
+      "ajo",
+      "cebolla",
+      "tomate frito",
+      "vino blanco",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Mezcla la carne picada con pan rallado, huevo y ajo picado.",
+      "Forma las albondigas y dora en aceite de oliva.",
+      "Sofrie la cebolla y anade el tomate frito y el vino.",
+      "Cocina las albondigas en la salsa a fuego lento."
+    ]
+  },
+  {
+    "id": "lomo-cerdo-ajillo",
+    "name": "Lomo de cerdo al ajillo",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🥩",
+    "ingredients": [
+      "cerdo",
+      "ajo",
+      "vino blanco",
+      "laurel",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Dora los filetes de lomo en aceite de oliva.",
+      "Anade el ajo laminado y el laurel.",
+      "Vierte el vino blanco y deja reducir antes de servir."
+    ]
+  },
+  {
+    "id": "alcachofas-jamon",
+    "name": "Alcachofas con jamon",
+    "category": "cena",
+    "minutes": 30,
+    "difficulty": "media",
+    "emoji": "🥬",
+    "ingredients": [
+      "jamon",
+      "ajo",
+      "aceite de oliva",
+      "limon",
+      "sal"
+    ],
+    "steps": [
+      "Limpia las alcachofas y cuecelas con un poco de limon.",
+      "Saltea el ajo y el jamon en aceite de oliva.",
+      "Anade las alcachofas escurridas y saltea unos minutos."
+    ]
+  },
+  {
+    "id": "sardinas-plancha",
+    "name": "Sardinas a la plancha",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🐟",
+    "ingredients": [
+      "sardina",
+      "aceite de oliva",
+      "limon",
+      "sal"
+    ],
+    "steps": [
+      "Limpia bien las sardinas y salalas.",
+      "Cocina en la plancha bien caliente por ambos lados.",
+      "Sirve con un chorrito de limon."
+    ]
+  },
+  {
+    "id": "salmon-al-horno",
+    "name": "Salmon al horno con limon",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🐟",
+    "ingredients": [
+      "salmon",
+      "limon",
+      "ajo",
+      "aceite de oliva",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Coloca el salmon en una bandeja con aceite y ajo picado.",
+      "Anade rodajas de limon por encima.",
+      "Hornea hasta que este cocinado y espolvorea perejil."
+    ]
+  },
+  {
+    "id": "mejillones-vapor",
+    "name": "Mejillones al vapor",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🦪",
+    "ingredients": [
+      "mejillon",
+      "vino blanco",
+      "ajo",
+      "laurel",
+      "perejil"
+    ],
+    "steps": [
+      "Limpia bien los mejillones.",
+      "Pon en una cazuela con vino blanco, ajo y laurel.",
+      "Cocina a fuego fuerte con tapa hasta que se abran.",
+      "Espolvorea perejil picado antes de servir."
+    ]
+  },
+  {
+    "id": "almejas-marinera",
+    "name": "Almejas a la marinera",
+    "category": "comida",
+    "minutes": 25,
+    "difficulty": "media",
+    "emoji": "🦪",
+    "ingredients": [
+      "almeja",
+      "ajo",
+      "pimenton",
+      "harina",
+      "vino blanco",
+      "perejil",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Sofrie el ajo picado en aceite de oliva.",
+      "Anade el pimenton y una cucharada de harina.",
+      "Vierte el vino blanco y las almejas.",
+      "Cocina tapado hasta que se abran las almejas."
+    ]
+  },
+  {
+    "id": "gambas-al-ajillo",
+    "name": "Gambas al ajillo",
+    "category": "cena",
+    "minutes": 10,
+    "difficulty": "facil",
+    "emoji": "🍤",
+    "ingredients": [
+      "gambas",
+      "ajo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Calienta el aceite con el ajo laminado hasta dorar.",
+      "Anade las gambas y saltea a fuego fuerte.",
+      "Sala y sirve muy caliente."
+    ]
+  },
+  {
+    "id": "pollo-al-curry",
+    "name": "Pollo al curry",
+    "category": "cena",
+    "minutes": 35,
+    "difficulty": "facil",
+    "emoji": "🍛",
+    "ingredients": [
+      "pollo",
+      "cebolla",
+      "curry",
+      "nata",
+      "coco",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Dora el pollo troceado en aceite de oliva.",
+      "Sofrie la cebolla y anade el curry.",
+      "Incorpora la nata o la leche de coco y cocina hasta espesar."
+    ]
+  },
+  {
+    "id": "pechuga-plancha-limon",
+    "name": "Pechuga de pollo a la plancha con limon",
+    "category": "cena",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🍗",
+    "ingredients": [
+      "pollo",
+      "limon",
+      "aceite de oliva",
+      "perejil",
+      "sal"
+    ],
+    "steps": [
+      "Salpimenta la pechuga y cocina en la plancha con aceite.",
+      "Riega con zumo de limon al final de la coccion.",
+      "Espolvorea perejil picado antes de servir."
+    ]
+  },
+  {
+    "id": "ternera-vino-tinto",
+    "name": "Carrilleras de ternera al vino tinto",
+    "category": "comida",
+    "minutes": 150,
+    "difficulty": "dificil",
+    "emoji": "🍖",
+    "ingredients": [
+      "ternera",
+      "cebolla",
+      "zanahoria",
+      "ajo",
+      "vino tinto",
+      "laurel",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Dora las carrilleras en aceite de oliva.",
+      "Sofrie la cebolla, la zanahoria y el ajo.",
+      "Vierte el vino tinto y anade el laurel.",
+      "Cocina a fuego muy lento hasta que la carne este muy tierna."
+    ]
+  },
+  {
+    "id": "migas-pastor",
+    "name": "Migas del pastor",
+    "category": "comida",
+    "minutes": 40,
+    "difficulty": "media",
+    "emoji": "🍞",
+    "ingredients": [
+      "pan",
+      "chorizo",
+      "bacon",
+      "ajo",
+      "pimenton",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Humedece el pan desmigado la noche anterior.",
+      "Sofrie el ajo, el chorizo y el bacon en aceite de oliva.",
+      "Anade el pan desmigado y el pimenton.",
+      "Cocina removiendo hasta que las migas queden sueltas."
+    ]
+  },
+  {
+    "id": "callos-madrilenos",
+    "name": "Callos a la madrilena",
+    "category": "comida",
+    "minutes": 180,
+    "difficulty": "dificil",
+    "emoji": "🍲",
+    "ingredients": [
+      "chorizo",
+      "morcilla",
+      "cebolla",
+      "ajo",
+      "pimenton",
+      "laurel",
+      "tomate frito",
+      "sal"
+    ],
+    "steps": [
+      "Cuece los callos previamente limpios durante varias horas.",
+      "Sofrie la cebolla y el ajo, anade el pimenton y el tomate frito.",
+      "Incorpora el chorizo, la morcilla y el laurel.",
+      "Cocina todo junto a fuego lento hasta que espese la salsa."
+    ]
+  },
+  {
+    "id": "coca-recapte",
+    "name": "Coca de recapte",
+    "category": "cena",
+    "minutes": 60,
+    "difficulty": "media",
+    "emoji": "🍕",
+    "ingredients": [
+      "harina",
+      "pimiento rojo",
+      "berenjena",
+      "cebolla",
+      "tomate",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Prepara una masa de coca con harina, aceite, agua y sal.",
+      "Asa el pimiento, la berenjena y la cebolla y cortalos en tiras.",
+      "Extiende la masa, cubre con las verduras asadas y un poco de tomate.",
+      "Hornea hasta que la masa este dorada."
+    ]
+  },
+  {
+    "id": "patatas-alioli",
+    "name": "Patatas con alioli",
+    "category": "cena",
+    "minutes": 25,
+    "difficulty": "facil",
+    "emoji": "🥔",
+    "ingredients": [
+      "patata",
+      "ajo",
+      "huevo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Cuece o asa las patatas hasta que esten tiernas.",
+      "Prepara un alioli batiendo ajo, huevo y aceite hasta emulsionar.",
+      "Sirve las patatas calientes con el alioli por encima."
+    ]
+  },
+  {
+    "id": "ensalada-aguacate-atun",
+    "name": "Ensalada de aguacate y atun",
+    "category": "cena",
+    "minutes": 10,
+    "difficulty": "facil",
+    "emoji": "🥑",
+    "ingredients": [
+      "aguacate",
+      "atun",
+      "lechuga",
+      "tomate",
+      "limon",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Trocea la lechuga, el tomate y el aguacate.",
+      "Anade el atun escurrido.",
+      "Adereza con aceite de oliva, limon y sal."
+    ]
+  },
+  {
+    "id": "yogur-con-miel-y-nueces",
+    "name": "Yogur con miel y nueces",
+    "category": "postre",
+    "minutes": 5,
+    "difficulty": "facil",
+    "emoji": "🍯",
+    "ingredients": [
+      "yogur",
+      "miel",
+      "nuez"
+    ],
+    "steps": [
+      "Sirve el yogur en un bol.",
+      "Anade un chorrito de miel.",
+      "Espolvorea nueces troceadas por encima."
+    ]
+  },
+  {
+    "id": "macedonia-fruta",
+    "name": "Macedonia de fruta",
+    "category": "postre",
+    "minutes": 15,
+    "difficulty": "facil",
+    "emoji": "🍓",
+    "ingredients": [
+      "manzana",
+      "platano",
+      "naranja",
+      "limon",
+      "miel"
+    ],
+    "steps": [
+      "Pela y corta toda la fruta en dados.",
+      "Mezcla en un bol con un poco de zumo de limon para que no se oxide.",
+      "Anade un chorrito de miel y remueve antes de servir."
+    ]
+  },
+  {
+    "id": "tostada-aguacate",
+    "name": "Tostada de aguacate y huevo",
+    "category": "comida",
+    "minutes": 10,
+    "difficulty": "facil",
+    "emoji": "🥑",
+    "ingredients": [
+      "pan",
+      "aguacate",
+      "huevo",
+      "aceite de oliva",
+      "sal"
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "Machaca el aguacate con sal y aceite de oliva y extiende sobre el pan.",
+      "Corona con un huevo poche o frito."
+    ]
+  },
+  {
+    "id": "sandwich-jamon-queso",
+    "name": "Sandwich de jamon y queso",
+    "category": "comida",
+    "minutes": 10,
+    "difficulty": "facil",
+    "emoji": "🥪",
+    "ingredients": [
+      "pan de molde",
+      "jamon",
+      "queso",
+      "mantequilla"
+    ],
+    "steps": [
+      "Unta ligeramente el pan con mantequilla.",
+      "Rellena con jamon y queso.",
+      "Tuesta en la sarten o sandwichera hasta que el queso funda."
+    ]
+  },
+  {
+    "id": "requeson-miel",
+    "name": "Requeson con miel y nueces",
+    "category": "postre",
+    "minutes": 5,
+    "difficulty": "facil",
+    "emoji": "🍯",
+    "ingredients": [
+      "requeson",
+      "miel",
+      "nuez"
+    ],
+    "steps": [
+      "Sirve el requeson en un plato.",
+      "Riega con miel.",
+      "Espolvorea nueces troceadas."
+    ]
+  }
+]
